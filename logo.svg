@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159 243.78">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Impact, Impact;
+        font-size: 25px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="65.2" y="121.89" width="28.35" height="28.35"/>
+  <rect class="cls-2" x="121.89" y="121.89" width="28.35" height="28.35"/>
+  <rect x="8.5" y="93.54" width="28.35" height="28.35"/>
+  <rect x="93.54" y="121.89" width="28.35" height="28.35"/>
+  <rect x="36.85" y="121.89" width="28.35" height="28.35"/>
+  <rect x="65.2" y="93.54" width="28.35" height="28.35"/>
+  <rect x="121.89" y="93.54" width="28.35" height="28.35"/>
+  <text class="cls-3" transform="translate(129.15 146.35)"><tspan x="0" y="0">D</tspan></text>
+  <text class="cls-1" transform="translate(15.77 118)"><tspan x="0" y="0">B</tspan></text>
+  <text class="cls-1" transform="translate(72.6 118)"><tspan x="0" y="0">N</tspan></text>
+  <text class="cls-1" transform="translate(130.15 118)"><tspan x="0" y="0">Y</tspan></text>
+  <text class="cls-1" transform="translate(44.19 146.35)"><tspan x="0" y="0">O</tspan></text>
+  <text class="cls-1" transform="translate(100.98 146.35)"><tspan x="0" y="0">R</tspan></text>
+  <rect class="cls-2" x="8.5" y="121.89" width="28.35" height="28.35"/>
+  <rect class="cls-2" x="36.85" y="93.54" width="28.35" height="28.35"/>
+  <rect class="cls-2" x="93.54" y="93.54" width="28.35" height="28.35"/>
+  <text class="cls-3" transform="translate(44.19 118)"><tspan x="0" y="0">O</tspan></text>
+  <text class="cls-3" transform="translate(100.95 118)"><tspan x="0" y="0">N</tspan></text>
+  <rect class="cls-2" x="65.2" y="121.89" width="28.35" height="28.35"/>
+  <text class="cls-3" transform="translate(15.77 146.35)"><tspan x="0" y="0">B</tspan></text>
+  <text class="cls-3" transform="translate(73.02 146.35)"><tspan x="0" y="0">A</tspan></text>
+</svg>

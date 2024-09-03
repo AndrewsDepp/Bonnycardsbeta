@@ -1,0 +1,1628 @@
+{
+  "verbs": [
+    {
+      "mainverb": "study",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "study",
+          "image": "assets/img/r1.jpg",
+          "examples": [
+            "I STUDY EVERY DAY.",
+            "YOU STUDY HARD FOR YOUR EXAMS.",
+            "THEY STUDY FRENCH ON THE WEEKENDS."
+          ],
+          "translations": [
+            "Yo estudio todos los días.",
+            "Tú estudias mucho para tus exámenes.",
+            "Ellos estudian francés los fines de semana."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "studied",
+          "image": "assets/img/b1.jpg",
+          "examples": [
+            "I STUDIED FOR THREE HOURS LAST NIGHT.",
+            "YOU STUDIED THE WRONG MATERIAL.",
+            "HE STUDIED AT THE LIBRARY."
+          ],
+          "translations": [
+            "Estudié durante tres horas anoche.",
+            "Tú estudiaste el material equivocado.",
+            "Él estudió en la biblioteca."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "studied",
+          "image": "assets/img/g1.jpg",
+          "examples": [
+            "I HAVE STUDIED THE MATERIAL THOROUGHLY.",
+            "YOU HAVE STUDIED FOR YOUR TEST.",
+            "SHE HAS STUDIED ABROAD."
+          ],
+          "translations": [
+            "He estudiado el material a fondo.",
+            "Tú has estudiado para tu examen.",
+            "Ella ha estudiado en el extranjero."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "studies, studying",
+          "image": "assets/img/y1.jpg",
+          "examples": [
+            "SHE STUDIES FOR THE FINAL EXAM.",
+            "HE STUDIES ENGLISH EVERY SATURDAY.",
+            "THEY ARE STUDYING HARD FOR THE FINAL."
+          ],
+          "translations": [
+            "Ella estudia para el exámen final.",
+            "Él estudia inglés todos los sábados.",
+            "Ellos están estudiando mucho para el final."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "like",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "like",
+          "image": "assets/img/r2.jpg",
+          "examples": [
+            "I LIKE TO READ BOOKS.",
+            "YOU LIKE TO PLAY GUITAR.",
+            "THEY LIKE MOVIES ON FRIDAY NIGHTS."
+          ],
+          "translations": [
+            "Me gusta leer libros.",
+            "Te gusta tocar la guitarra.",
+            "A ellos les gustan las películas los viernes por la noche."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "liked",
+          "image": "assets/img/b2.jpg",
+          "examples": [
+            "I LIKED THE NEW RESTAURANT.",
+            "YOU LIKED THE MOVIE LAST WEEK.",
+            "SHE LIKED THE GIFT YOU GAVE HER."
+          ],
+          "translations": [
+            "Me gustó el nuevo restaurante.",
+            "Te gustó la película la semana pasada.",
+            "A ella le gustó el regalo que le diste."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "liked",
+          "image": "assets/img/g2.jpg",
+          "examples": [
+            "I HAVE LIKED EVERY BOOK IN THIS SERIES.",
+            "YOU HAVE LIKED ALL MY POSTS.",
+            "HE HAS LIKED THE NEW POLICY."
+          ],
+          "translations": [
+            "He gustado todos los libros de esta serie.",
+            "Tú has dado 'me gusta' a todas mis publicaciones.",
+            "Él ha gustado la nueva política."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "likes, liking",
+          "image": "assets/img/y2.jpg",
+          "examples": [
+            "SHE LIKES TO DRAW IN HER SPARE TIME.",
+            "HE LIKES THE NEW RESTAURANT.",
+            "THEY ARE LIKING THE PARTY SO FAR."
+          ],
+          "translations": [
+            "A ella le gusta dibujar en su tiempo libre.",
+            "A él le gusta el nuevo restaurante.",
+            "A ellos les está gustando la fiesta hasta ahora."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "love",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "love",
+          "image": "assets/img/r3.jpg",
+          "examples": [
+            "I LOVE TO WATCH THE SUNSET.",
+            "YOU LOVE TO EAT PIZZA.",
+            "THEY LOVE SPENDING TIME TOGETHER."
+          ],
+          "translations": [
+            "Me encanta ver el atardecer.",
+            "Te encanta comer pizza.",
+            "A ellos les encanta pasar tiempo juntos."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "loved",
+          "image": "assets/img/b3.jpg",
+          "examples": [
+            "I LOVED THE CONCERT LAST NIGHT.",
+            "YOU LOVED THE BOOK I GAVE YOU.",
+            "SHE LOVED THE VACATION."
+          ],
+          "translations": [
+            "Me encantó el concierto anoche.",
+            "Te encantó el libro que te di.",
+            "A ella le encantó las vacaciones."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "loved",
+          "image": "assets/img/g3.jpg",
+          "examples": [
+            "I HAVE LOVED EVERY MOMENT OF THIS TRIP.",
+            "YOU HAVE LOVED THE NEW RESTAURANT.",
+            "SHE HAS LOVED THE GIFT."
+          ],
+          "translations": [
+            "He amado cada momento de este viaje.",
+            "Tú has amado el nuevo restaurante.",
+            "Ella ha amado el regalo."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "loves, loving",
+          "image": "assets/img/y3.jpg",
+          "examples": [
+            "SHE LOVES TO COOK FOR HER FAMILY.",
+            "HE LOVES HIS NEW JOB.",
+            "THEY ARE LOVING THEIR TIME IN PARIS."
+          ],
+          "translations": [
+            "A ella le encanta cocinar para su familia.",
+            "A él le encanta su nuevo trabajo.",
+            "A ellos les está encantando su tiempo en París."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "listen to",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "listen to",
+          "image": "assets/img/r4.jpg",
+          "examples": [
+            "I LISTEN TO BLUSH SIDE EVERY MORNING.",
+            "YOU LISTEN TO PODCASTS ON YOUR COMMUTE.",
+            "THEY LISTEN TO CLASSICAL MUSIC IN THE EVENING."
+          ],
+          "translations": [
+            "Escucho BLUSH SIDE todas las mañanas.",
+            "Tú escuchas podcasts en tu trayecto.",
+            "Ellos escuchan música clásica por la tarde."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "listened to",
+          "image": "assets/img/b4.jpg",
+          "examples": [
+            "I LISTENED TO THE NEW ALBUM.",
+            "YOU LISTENED TO THE RADIO ONCE.",
+            "SHE LISTENED TO THE NEWS."
+          ],
+          "translations": [
+            "Escuché el nuevo album.",
+            "Tú escuchaste la radio una vez.",
+            "Ella escuchó las noticias."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "listened to",
+          "image": "assets/img/g4.jpg",
+          "examples": [
+            "I HAVE LISTENED TO ALL OF HER SONGS.",
+            "YOU HAVE LISTENED TO THE NEW ALBUM.",
+            "SHE HAS LISTENED TO THE AUDIOBOOK."
+          ],
+          "translations": [
+            "He escuchado todas sus canciones.",
+            "Tú has escuchado el nuevo álbum.",
+            "Ella ha escuchado el audiolibro."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "listens to, listening to",
+          "image": "assets/img/y4.jpg",
+          "examples": [
+            "SHE LISTENS TO JAZZ EVERY NIGHT.",
+            "HE LISTENS TO HIS FAVORITE PODCAST.",
+            "THEY ARE LISTENING TO A NEW ALBUM."
+          ],
+          "translations": [
+            "Ella escucha jazz todas las noches.",
+            "Él escucha su podcast favorito.",
+            "Ellos están escuchando un álbum nuevo."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "work",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "work",
+          "image": "assets/img/r5.jpg",
+          "examples": [
+            "I WORK FROM HOME.",
+            "YOU WORK LONG HOURS.",
+            "THEY WORK ON PROJECTS TOGETHER."
+          ],
+          "translations": [
+            "Trabajo desde casa.",
+            "Tú trabajas muchas horas.",
+            "Ellos trabajan en proyectos juntos."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "worked",
+          "image": "assets/img/b5.jpg",
+          "examples": [
+            "I WORKED AT THE OFFICE YESTERDAY.",
+            "YOU WORKED HARD LAST WEEK.",
+            "SHE WORKED IN SALES."
+          ],
+          "translations": [
+            "Trabajé en la oficina ayer.",
+            "Tú trabajaste duro la semana pasada.",
+            "Ella trabajó en ventas."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "worked",
+          "image": "assets/img/g5.jpg",
+          "examples": [
+            "I HAVE WORKED ON THIS TASK FOR HOURS.",
+            "YOU HAVE WORKED WITH THE TEAM.",
+            "HE HAS WORKED IN SEVERAL COUNTRIES."
+          ],
+          "translations": [
+            "He trabajado en esta tarea durante horas.",
+            "Tú has trabajado con el equipo.",
+            "Él ha trabajado en varios países."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "works, working",
+          "image": "assets/img/y5.jpg",
+          "examples": [
+            "SHE WORKS FROM THE OFFICE.",
+            "HE WORKS ON THE WEEKENDS.",
+            "THEY ARE WORKING ON A NEW DESIGN."
+          ],
+          "translations": [
+            "Ella trabaja desde la oficina.",
+            "Él trabaja los fines de semana.",
+            "Ellos están trabajando en un nuevo diseño."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "play",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "play",
+          "image": "assets/img/r6.jpg",
+          "examples": [
+            "I PLAY TENNIS EVERY WEEKEND.",
+            "YOU PLAY THE GUITAR BEAUTIFULLY.",
+            "THEY PLAY FOOTBALL AFTER SCHOOL."
+          ],
+          "translations": [
+            "Juego al tenis cada fin de semana.",
+            "Tú tocas la guitarra maravillosamente.",
+            "Ellos juegan al fútbol después de la escuela."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "played",
+          "image": "assets/img/b6.jpg",
+          "examples": [
+            "I PLAYED THE PIANO AT THE RECITAL.",
+            "YOU PLAYED IN THE TOURNAMENT LAST MONTH.",
+            "SHE PLAYED A LEADING ROLE IN THE PLAY."
+          ],
+          "translations": [
+            "Toqué el piano en el recital.",
+            "Tú jugaste en el torneo el mes pasado.",
+            "Ella tuvo un papel principal en la obra."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "played",
+          "image": "assets/img/g6.jpg",
+          "examples": [
+            "I HAVE PLAYED SEVERAL GAMES TODAY.",
+            "YOU HAVE PLAYED IN MANY TOURNAMENTS.",
+            "HE HAS PLAYED IN A BAND."
+          ],
+          "translations": [
+            "He jugado varios juegos hoy.",
+            "Tú has jugado en muchos torneos.",
+            "Él ha tocado en una banda."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "plays, playing",
+          "image": "assets/img/y6.jpg",
+          "examples": [
+            "SHE PLAYS THE VIOLIN IN THE ORCHESTRA.",
+            "HE PLAYS GOLF ON THE WEEKENDS.",
+            "THEY ARE PLAYING A NEW VIDEO GAME."
+          ],
+          "translations": [
+            "Ella toca el violín en la orquesta.",
+            "Él juega al golf los fines de semana.",
+            "Ellos están jugando a un nuevo videojuego."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "cook",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "cook",
+          "image": "assets/img/r7.jpg",
+          "examples": [
+            "I COOK DINNER EVERY NIGHT.",
+            "YOU COOK DELICIOUS MEALS.",
+            "THEY COOK TOGETHER ON WEEKENDS."
+          ],
+          "translations": [
+            "Cocino la cena todas las noches.",
+            "Tú cocinas comidas deliciosas.",
+            "Ellos cocinan juntos los fines de semana."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "cooked",
+          "image": "assets/img/b7.jpg",
+          "examples": [
+            "I COOKED A SPECIAL MEAL LAST NIGHT.",
+            "YOU COOKED FOR THE FAMILY LAST WEEK.",
+            "SHE COOKED A FESTIVE DINNER."
+          ],
+          "translations": [
+            "Cociné una comida especial anoche.",
+            "Tú cocinaste para la familia la semana pasada.",
+            "Ella cocinó una cena festiva."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "cooked",
+          "image": "assets/img/g7.jpg",
+          "examples": [
+            "I HAVE COOKED MANY DISHES.",
+            "YOU HAVE COOKED FOR SEVERAL EVENTS.",
+            "SHE HAS COOKED SINCE SHE WAS YOUNG."
+          ],
+          "translations": [
+            "He cocinado muchos platos.",
+            "Tú has cocinado para varios eventos.",
+            "Ella ha cocinado desde que era joven."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "cooks, cooking",
+          "image": "assets/img/y7.jpg",
+          "examples": [
+            "SHE COOKS EVERY EVENING.",
+            "HE COOKS ON WEEKENDS.",
+            "THEY ARE COOKING FOR THE PARTY."
+          ],
+          "translations": [
+            "Ella cocina todas las noches.",
+            "Él cocina los fines de semana.",
+            "Ellos están cocinando para la fiesta."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "cry",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "cry",
+          "image": "assets/img/r8.jpg",
+          "examples": [
+            "I CRY WHEN I WATCH SAD MOVIES.",
+            "YOU CRY WHEN YOU'RE HAPPY SOMETIMES.",
+            "THEY CRY AT THE MOVIES."
+          ],
+          "translations": [
+            "Lloro cuando veo películas tristes.",
+            "Tú lloras cuando estás feliz a veces.",
+            "Ellos lloran en el cine."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "cried",
+          "image": "assets/img/b8.jpg",
+          "examples": [
+            "I CRIED DURING THE EMOTIONAL SCENE.",
+            "YOU CRIED LAST NIGHT.",
+            "SHE CRIED WHEN SHE SAW THE NEWS."
+          ],
+          "translations": [
+            "Lloré durante la escena emocional.",
+            "Tú lloraste anoche.",
+            "Ella lloró cuando vio las noticias."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "cried",
+          "image": "assets/img/g8.jpg",
+          "examples": [
+            "I HAVE CRIED SEVERAL TIMES THIS MONTH.",
+            "YOU HAVE CRIED OVER THAT MOVIE.",
+            "SHE HAS CRIED OUT OF JOY."
+          ],
+          "translations": [
+            "He llorado varias veces este mes.",
+            "Tú has llorado por esa película.",
+            "Ella ha llorado de alegría."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "cries, crying",
+          "image": "assets/img/y8.jpg",
+          "examples": [
+            "SHE CRIES WHEN SHE IS FRUSTRATED.",
+            "HE CRIES DURING SAD PARTS OF THE MOVIE.",
+            "THEY ARE CRYING BECAUSE OF THE ONION."
+          ],
+          "translations": [
+            "Ella llora cuando está frustrada.",
+            "Él llora durante las partes tristes de la película.",
+            "Ellos están llorando por la cebolla."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "call",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "call",
+          "image": "assets/img/r9.jpg",
+          "examples": [
+            "I CALL MY FRIEND EVERY DAY.",
+            "YOU CALL YOUR PARENTS OFTEN.",
+            "THEY CALL EACH OTHER REGULARLY."
+          ],
+          "translations": [
+            "Llamo a mi amigo todos los días.",
+            "Tú llamas a tus padres con frecuencia.",
+            "Ellos se llaman regularmente."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "called",
+          "image": "assets/img/b9.jpg",
+          "examples": [
+            "I CALLED YOU LAST NIGHT.",
+            "YOU CALLED THE CUSTOMER SERVICE.",
+            "SHE CALLED HER SISTER."
+          ],
+          "translations": [
+            "Te llamé anoche.",
+            "Tú llamaste al servicio de atención al cliente.",
+            "Ella llamó a su hermana."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "called",
+          "image": "assets/img/g9.jpg",
+          "examples": [
+            "I HAVE CALLED SEVERAL TIMES TODAY.",
+            "YOU HAVE CALLED ME BACK.",
+            "SHE HAS CALLED TO CONFIRM THE APPOINTMENT."
+          ],
+          "translations": [
+            "He llamado varias veces hoy.",
+            "Tú me has devuelto la llamada.",
+            "Ella ha llamado para confirmar la cita."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "calls, calling",
+          "image": "assets/img/y9.jpg",
+          "examples": [
+            "SHE CALLS HER FRIENDS EVERY EVENING.",
+            "HE CALLS HIS CLIENTS REGULARLY.",
+            "THEY ARE CALLING TO CHECK ON YOU."
+          ],
+          "translations": [
+            "Ella llama a sus amigos todas las noches.",
+            "Él llama a sus clientes regularmente.",
+            "Ellos están llamando para saber cómo estás."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "jump",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "jump",
+          "image": "assets/img/r10.jpg",
+          "examples": [
+            "I JUMP ROPE EVERY MORNING.",
+            "YOU JUMP HIGH IN THE BASKETBALL GAME.",
+            "THEY JUMP INTO THE POOL."
+          ],
+          "translations": [
+            "Salto la cuerda todas las mañanas.",
+            "Tú saltas alto en el juego de baloncesto.",
+            "Ellos saltan a la piscina."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "jumped",
+          "image": "assets/img/b10.jpg",
+          "examples": [
+            "I JUMPED OVER THE HURDLE.",
+            "YOU JUMPED INTO THE WATER.",
+            "SHE JUMPED ON THE TRAMPOLINE."
+          ],
+          "translations": [
+            "Salté sobre el obstáculo.",
+            "Tú saltaste al agua.",
+            "Ella saltó en el trampolín."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "jumped",
+          "image": "assets/img/g10.jpg",
+          "examples": [
+            "I HAVE JUMPED ROPE EVERY DAY THIS WEEK.",
+            "YOU HAVE JUMPED SEVERAL TIMES.",
+            "HE HAS JUMPED AT EVERY OPPORTUNITY."
+          ],
+          "translations": [
+            "He saltado la cuerda todos los días esta semana.",
+            "Tú has saltado varias veces.",
+            "Él ha saltado en cada oportunidad."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "jumps, jumping",
+          "image": "assets/img/y10.jpg",
+          "examples": [
+            "SHE JUMPS ROPE EVERY MORNING.",
+            "HE JUMPS ON THE TRAMPOLINE.",
+            "THEY ARE JUMPING IN THE PARK."
+          ],
+          "translations": [
+            "Ella salta la cuerda todas las mañanas.",
+            "Él salta en el trampolín.",
+            "Ellos están saltando en el parque."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "paint",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "paint",
+          "image": "assets/img/r11.jpg",
+          "examples": [
+            "I PAINT LANDSCAPES.",
+            "YOU PAINT YOUR ROOM EVERY YEAR.",
+            "THEY PAINT TOGETHER ON WEEKENDS."
+          ],
+          "translations": [
+            "Pinto paisajes.",
+            "Tú pintas tu habitación cada año.",
+            "Ellos pintan juntos los fines de semana."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "painted",
+          "image": "assets/img/b11.jpg",
+          "examples": [
+            "I PAINTED A MURAL LAST MONTH.",
+            "YOU PAINTED THE HOUSE LAST SUMMER.",
+            "SHE PAINTED A BEAUTIFUL PICTURE."
+          ],
+          "translations": [
+            "Pinté un mural el mes pasado.",
+            "Tú pintaste la casa el verano pasado.",
+            "Ella pintó un cuadro hermoso."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "painted",
+          "image": "assets/img/g11.jpg",
+          "examples": [
+            "I HAVE PAINTED SEVERAL PICTURES.",
+            "YOU HAVE PAINTED YOUR ROOM.",
+            "SHE HAS PAINTED A SERIES OF PORTRAITS."
+          ],
+          "translations": [
+            "He pintado varios cuadros.",
+            "Tú has pintado tu habitación.",
+            "Ella ha pintado una serie de retratos."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "paints, painting",
+          "image": "assets/img/y11.jpg",
+          "examples": [
+            "SHE PAINTS EVERY WEEKEND.",
+            "HE PAINTS LANDSCAPES AND PORTRAITS.",
+            "THEY ARE PAINTING A MURAL TOGETHER."
+          ],
+          "translations": [
+            "Ella pinta todos los fines de semana.",
+            "Él pinta paisajes y retratos.",
+            "Ellos están pintando un mural juntos."
+          ]
+        }
+      ]
+    },{
+      "mainverb": "open",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "open",
+          "image": "assets/img/r12.jpg",
+          "examples": [
+            "I OPEN THE DOOR EVERY MORNING.",
+            "YOU OPEN THE WINDOW TO LET IN FRESH AIR.",
+            "THEY OPEN THE SHOP AT 9 A.M."
+          ],
+          "translations": [
+            "Abro la puerta todas las mañanas.",
+            "Tú abres la ventana para dejar entrar aire fresco.",
+            "Ellos abren la tienda a las 9 a.m."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "opened",
+          "image": "assets/img/b12.jpg",
+          "examples": [
+            "I OPENED THE GIFT LAST NIGHT.",
+            "YOU OPENED THE BOX EARLIER.",
+            "SHE OPENED THE BOOK TO READ."
+          ],
+          "translations": [
+            "Abrí el regalo anoche.",
+            "Tú abriste la caja más temprano.",
+            "Ella abrió el libro para leer."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "opened",
+          "image": "assets/img/g12.jpg",
+          "examples": [
+            "I HAVE OPENED THE EMAIL.",
+            "YOU HAVE OPENED SEVERAL ACCOUNTS.",
+            "SHE HAS OPENED A NEW STORE."
+          ],
+          "translations": [
+            "He abierto el correo electrónico.",
+            "Tú has abierto varias cuentas.",
+            "Ella ha abierto una nueva tienda."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "opens, opening",
+          "image": "assets/img/y12.jpg",
+          "examples": [
+            "SHE OPENS THE GATE EVERY DAY.",
+            "HE OPENS THE STORE AT 8 A.M.",
+            "THEY ARE OPENING A NEW RESTAURANT."
+          ],
+          "translations": [
+            "Ella abre la puerta todos los días.",
+            "Él abre la tienda a las 8 a.m.",
+            "Ellos están abriendo un nuevo restaurante."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "close",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "close",
+          "image": "assets/img/r13.jpg",
+          "examples": [
+            "I CLOSE THE DOOR AFTER I ENTER.",
+            "YOU CLOSE THE WINDOW WHEN IT'S COLD.",
+            "THEY CLOSE THE OFFICE AT 6 P.M."
+          ],
+          "translations": [
+            "Cierro la puerta después de entrar.",
+            "Tú cierras la ventana cuando hace frío.",
+            "Ellos cierran la oficina a las 6 p.m."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "closed",
+          "image": "assets/img/b13.jpg",
+          "examples": [
+            "I CLOSED THE BOOK AFTER READING.",
+            "YOU CLOSED THE SHOP YESTERDAY.",
+            "SHE CLOSED THE BOX CAREFULLY."
+          ],
+          "translations": [
+            "Cerré el libro después de leer.",
+            "Tú cerraste la tienda ayer.",
+            "Ella cerró la caja cuidadosamente."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "closed",
+          "image": "assets/img/g13.jpg",
+          "examples": [
+            "I HAVE CLOSED ALL THE OPEN FILES.",
+            "YOU HAVE CLOSED THE WINDOW.",
+            "HE HAS CLOSED THE DOOR."
+          ],
+          "translations": [
+            "He cerrado todos los archivos abiertos.",
+            "Tú has cerrado la ventana.",
+            "Él ha cerrado la puerta."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "closes, closing",
+          "image": "assets/img/y13.jpg",
+          "examples": [
+            "SHE CLOSES THE DOOR BEFORE LEAVING.",
+            "HE CLOSES THE STORE AT NIGHT.",
+            "THEY ARE CLOSING THE SHOP EARLY TODAY."
+          ],
+          "translations": [
+            "Ella cierra la puerta antes de irse.",
+            "Él cierra la tienda por la noche.",
+            "Ellos están cerrando la tienda temprano hoy."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "walk",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "walk",
+          "image": "assets/img/r14.jpg",
+          "examples": [
+            "I WALK TO SCHOOL EVERY DAY.",
+            "YOU WALK IN THE PARK ON WEEKENDS.",
+            "THEY WALK TOGETHER AFTER DINNER."
+          ],
+          "translations": [
+            "Camino a la escuela todos los días.",
+            "Tú caminas en el parque los fines de semana.",
+            "Ellos caminan juntos después de cenar."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "walked",
+          "image": "assets/img/b14.jpg",
+          "examples": [
+            "I WALKED TO THE STORE YESTERDAY.",
+            "YOU WALKED THROUGH THE GARDEN.",
+            "SHE WALKED HOME LAST NIGHT."
+          ],
+          "translations": [
+            "Caminé a la tienda ayer.",
+            "Tú caminaste por el jardín.",
+            "Ella caminó a casa anoche."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "walked",
+          "image": "assets/img/g14.jpg",
+          "examples": [
+            "I HAVE WALKED MANY MILES THIS WEEK.",
+            "YOU HAVE WALKED THE DOG.",
+            "HE HAS WALKED TO WORK EVERY DAY."
+          ],
+          "translations": [
+            "He caminado muchas millas esta semana.",
+            "Tú has paseado al perro.",
+            "Él ha caminado al trabajo todos los días."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "walks, walking",
+          "image": "assets/img/y14.jpg",
+          "examples": [
+            "SHE WALKS TO WORK EVERY DAY.",
+            "HE WALKS IN THE EVENING.",
+            "THEY ARE WALKING TO THE PARK."
+          ],
+          "translations": [
+            "Ella camina al trabajo todos los días.",
+            "Él camina por la tarde.",
+            "Ellos están caminando al parque."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "watch",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "watch",
+          "image": "assets/img/r15.jpg",
+          "examples": [
+            "I WATCH MOVIES ON THE WEEKENDS.",
+            "YOU WATCH THE NEWS EVERY NIGHT.",
+            "THEY WATCH TV TOGETHER."
+          ],
+          "translations": [
+            "Miro películas los fines de semana.",
+            "Tú ves las noticias todas las noches.",
+            "Ellos ven televisión juntos."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "watched",
+          "image": "assets/img/b15.jpg",
+          "examples": [
+            "I WATCHED A DOCUMENTARY LAST NIGHT.",
+            "YOU WATCHED THE GAME YESTERDAY.",
+            "SHE WATCHED A NEW SERIES."
+          ],
+          "translations": [
+            "Vi un documental anoche.",
+            "Tú viste el partido ayer.",
+            "Ella vio una nueva serie."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "watched",
+          "image": "assets/img/g15.jpg",
+          "examples": [
+            "I HAVE WATCHED SEVERAL EPISODES.",
+            "YOU HAVE WATCHED THIS MOVIE BEFORE.",
+            "HE HAS WATCHED THE ENTIRE SEASON."
+          ],
+          "translations": [
+            "He visto varios episodios.",
+            "Tú has visto esta película antes.",
+            "Él ha visto toda la temporada."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "watches, watching",
+          "image": "assets/img/y15.jpg",
+          "examples": [
+            "SHE WATCHES TV EVERY NIGHT.",
+            "HE WATCHES MOVIES ON THE WEEKENDS.",
+            "THEY ARE WATCHING A NEW SERIES."
+          ],
+          "translations": [
+            "Ella ve televisión todas las noches.",
+            "Él ve películas los fines de semana.",
+            "Ellos están viendo una nueva serie."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "answer",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "answer",
+          "image": "assets/img/r16.jpg",
+          "examples": [
+            "I ANSWER THE PHONE EVERY TIME IT RINGS.",
+            "YOU ANSWER QUESTIONS IN CLASS.",
+            "THEY ANSWER EMAILS QUICKLY."
+          ],
+          "translations": [
+            "Contesto el teléfono cada vez que suena.",
+            "Tú respondes preguntas en clase.",
+            "Ellos responden correos electrónicos rápidamente."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "answered",
+          "image": "assets/img/b16.jpg",
+          "examples": [
+            "I ANSWERED THE EMAIL YESTERDAY.",
+            "YOU ANSWERED THE QUESTION CORRECTLY.",
+            "SHE ANSWERED THE PHONE LAST NIGHT."
+          ],
+          "translations": [
+            "Respondí el correo electrónico ayer.",
+            "Tú respondiste la pregunta correctamente.",
+            "Ella respondió el teléfono anoche."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "answered",
+          "image": "assets/img/g16.jpg",
+          "examples": [
+            "I HAVE ANSWERED ALL THE QUESTIONS.",
+            "YOU HAVE ANSWERED THE CUSTOMER'S INQUIRY.",
+            "SHE HAS ANSWERED THE PHONE SEVERAL TIMES."
+          ],
+          "translations": [
+            "He respondido todas las preguntas.",
+            "Tú has respondido a la consulta del cliente.",
+            "Ella ha respondido al teléfono varias veces."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "answers, answering",
+          "image": "assets/img/y16.jpg",
+          "examples": [
+            "SHE ANSWERS EMAILS ALL DAY.",
+            "HE ANSWERS THE PHONE AT WORK.",
+            "THEY ARE ANSWERING THE QUESTIONS NOW."
+          ],
+          "translations": [
+            "Ella responde correos electrónicos todo el día.",
+            "Él responde al teléfono en el trabajo.",
+            "Ellos están respondiendo las preguntas ahora."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "clean",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "clean",
+          "image": "assets/img/r17.jpg",
+          "examples": [
+            "I CLEAN THE HOUSE EVERY WEEKEND.",
+            "YOU CLEAN YOUR ROOM EVERY DAY.",
+            "THEY CLEAN THE OFFICE EVERY FRIDAY."
+          ],
+          "translations": [
+            "Limpio la casa todos los fines de semana.",
+            "Tú limpias tu habitación todos los días.",
+            "Ellos limpian la oficina todos los viernes."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "cleaned",
+          "image": "assets/img/b17.jpg",
+          "examples": [
+            "I CLEANED THE KITCHEN LAST NIGHT.",
+            "YOU CLEANED THE CAR YESTERDAY.",
+            "SHE CLEANED HER APARTMENT LAST WEEK."
+          ],
+          "translations": [
+            "Limpié la cocina anoche.",
+            "Tú limpiaste el coche ayer.",
+            "Ella limpió su apartamento la semana pasada."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "cleaned",
+          "image": "assets/img/g17.jpg",
+          "examples": [
+            "I HAVE CLEANED THE ENTIRE HOUSE.",
+            "YOU HAVE CLEANED THE DESK.",
+            "SHE HAS CLEANED THE BATHROOM."
+          ],
+          "translations": [
+            "He limpiado toda la casa.",
+            "Tú has limpiado el escritorio.",
+            "Ella ha limpiado el baño."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "cleans, cleaning",
+          "image": "assets/img/y17.jpg",
+          "examples": [
+            "SHE CLEANS THE HOUSE EVERY WEEK.",
+            "HE CLEANS HIS ROOM EVERY DAY.",
+            "THEY ARE CLEANING THE GARDEN."
+          ],
+          "translations": [
+            "Ella limpia la casa todas las semanas.",
+            "Él limpia su habitación todos los días.",
+            "Ellos están limpiando el jardín."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "start",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "start",
+          "image": "assets/img/r18.jpg",
+          "examples": [
+            "I START MY DAY WITH A CUP OF COFFEE.",
+            "YOU START YOUR WORK AT 9 A.M.",
+            "THEY START THEIR VACATION NEXT WEEK."
+          ],
+          "translations": [
+            "Empiezo mi día con una taza de café.",
+            "Tú empiezas tu trabajo a las 9 a.m.",
+            "Ellos comienzan sus vacaciones la próxima semana."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "started",
+          "image": "assets/img/b18.jpg",
+          "examples": [
+            "I STARTED A NEW PROJECT LAST MONTH.",
+            "YOU STARTED THE ENGINE YESTERDAY.",
+            "SHE STARTED A NEW JOB LAST WEEK."
+          ],
+          "translations": [
+            "Empecé un nuevo proyecto el mes pasado.",
+            "Tú arrancaste el motor ayer.",
+            "Ella comenzó un nuevo trabajo la semana pasada."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "started",
+          "image": "assets/img/g18.jpg",
+          "examples": [
+            "I HAVE STARTED A NEW HOBBY.",
+            "YOU HAVE STARTED A NEW COURSE.",
+            "SHE HAS STARTED EXERCISING REGULARLY."
+          ],
+          "translations": [
+            "He empezado un nuevo pasatiempo.",
+            "Tú has empezado un nuevo curso.",
+            "Ella ha comenzado a hacer ejercicio regularmente."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "starts, starting",
+          "image": "assets/img/y18.jpg",
+          "examples": [
+            "SHE STARTS WORK AT 8 A.M.",
+            "HE STARTS HIS DAY WITH A RUN.",
+            "THEY ARE STARTING A NEW BUSINESS."
+          ],
+          "translations": [
+            "Ella empieza a trabajar a las 8 a.m.",
+            "Él empieza su día con una carrera.",
+            "Ellos están comenzando un nuevo negocio."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "look",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "look",
+          "image": "assets/img/r19.jpg",
+          "examples": [
+            "I LOOK AT THE SKY EVERY NIGHT.",
+            "YOU LOOK FOR YOUR KEYS EVERY MORNING.",
+            "THEY LOOK AT THE STARS."
+          ],
+          "translations": [
+            "Miro al cielo todas las noches.",
+            "Tú buscas tus llaves todas las mañanas.",
+            "Ellos miran las estrellas."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "looked",
+          "image": "assets/img/b19.jpg",
+          "examples": [
+            "I LOOKED FOR MY PHONE ALL DAY.",
+            "YOU LOOKED AT THE PICTURE.",
+            "SHE LOOKED OUT THE WINDOW."
+          ],
+          "translations": [
+            "Busqué mi teléfono todo el día.",
+            "Tú miraste la foto.",
+            "Ella miró por la ventana."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "looked",
+          "image": "assets/img/g19.jpg",
+          "examples": [
+            "I HAVE LOOKED AT THE MAP.",
+            "YOU HAVE LOOKED THROUGH THE REPORT.",
+            "SHE HAS LOOKED FOR THE ANSWERS."
+          ],
+          "translations": [
+            "He mirado el mapa.",
+            "Tú has revisado el informe.",
+            "Ella ha buscado las respuestas."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "looks, looking",
+          "image": "assets/img/y19.jpg",
+          "examples": [
+            "SHE LOOKS AT THE CLOCK.",
+            "HE LOOKS FOR HIS BOOK.",
+            "THEY ARE LOOKING AT THE MAP."
+          ],
+          "translations": [
+            "Ella mira el reloj.",
+            "Él busca su libro.",
+            "Ellos están mirando el mapa."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "want",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "want",
+          "image": "assets/img/r20.jpg",
+          "examples": [
+            "I WANT TO LEARN NEW THINGS.",
+            "YOU WANT TO GO ON VACATION.",
+            "THEY WANT TO EAT DINNER."
+          ],
+          "translations": [
+            "Quiero aprender cosas nuevas.",
+            "Tú quieres ir de vacaciones.",
+            "Ellos quieren cenar."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "wanted",
+          "image": "assets/img/b20.jpg",
+          "examples": [
+            "I WANTED TO BUY A NEW CAR.",
+            "YOU WANTED TO TRY THAT RESTAURANT.",
+            "SHE WANTED TO MEET YOU."
+          ],
+          "translations": [
+            "Quería comprar un coche nuevo.",
+            "Tú querías probar ese restaurante.",
+            "Ella quería conocerte."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "wanted",
+          "image": "assets/img/g20.jpg",
+          "examples": [
+            "I HAVE WANTED TO VISIT PARIS.",
+            "YOU HAVE WANTED TO CHANGE JOBS.",
+            "SHE HAS WANTED A PET FOR YEARS."
+          ],
+          "translations": [
+            "He querido visitar París.",
+            "Tú has querido cambiar de trabajo.",
+            "Ella ha querido una mascota durante años."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "wants, wanting",
+          "image": "assets/img/y20.jpg",
+          "examples": [
+            "SHE WANTS TO LEAVE NOW.",
+            "HE WANTS TO EAT OUT.",
+            "THEY ARE WANTING A BREAK."
+          ],
+          "translations": [
+            "Ella quiere irse ahora.",
+            "Él quiere comer fuera.",
+            "Ellos están deseando un descanso."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "wait",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "wait",
+          "image": "assets/img/r21.jpg",
+          "examples": [
+            "I WAIT FOR THE BUS EVERY MORNING.",
+            "YOU WAIT FOR YOUR FRIENDS AT THE CAFE.",
+            "THEY WAIT FOR THE MOVIE TO START."
+          ],
+          "translations": [
+            "Espero el autobús todas las mañanas.",
+            "Tú esperas a tus amigos en el café.",
+            "Ellos esperan que empiece la película."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "waited",
+          "image": "assets/img/b21.jpg",
+          "examples": [
+            "I WAITED FOR AN HOUR LAST NIGHT.",
+            "YOU WAITED OUTSIDE THE STORE.",
+            "SHE WAITED FOR HIS CALL."
+          ],
+          "translations": [
+            "Esperé una hora anoche.",
+            "Tú esperaste afuera de la tienda.",
+            "Ella esperó su llamada."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "waited",
+          "image": "assets/img/g21.jpg",
+          "examples": [
+            "I HAVE WAITED FOR THIS MOMENT.",
+            "YOU HAVE WAITED LONG ENOUGH.",
+            "SHE HAS WAITED PATIENTLY."
+          ],
+          "translations": [
+            "He esperado este momento.",
+            "Tú has esperado lo suficiente.",
+            "Ella ha esperado pacientemente."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "waits, waiting",
+          "image": "assets/img/y21.jpg",
+          "examples": [
+            "SHE WAITS FOR HER TURN.",
+            "HE WAITS AT THE STATION.",
+            "THEY ARE WAITING FOR THEIR FLIGHT."
+          ],
+          "translations": [
+            "Ella espera su turno.",
+            "Él espera en la estación.",
+            "Ellos están esperando su vuelo."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "help",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "help",
+          "image": "assets/img/r22.jpg",
+          "examples": [
+            "I HELP MY FRIENDS WITH THEIR HOMEWORK.",
+            "YOU HELP YOUR FAMILY A LOT.",
+            "THEY HELP EACH OTHER IN NEED."
+          ],
+          "translations": [
+            "Ayudo a mis amigos con sus deberes.",
+            "Tú ayudas mucho a tu familia.",
+            "Ellos se ayudan mutuamente en caso de necesidad."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "helped",
+          "image": "assets/img/b22.jpg",
+          "examples": [
+            "I HELPED HER WITH THE PROJECT LAST WEEK.",
+            "YOU HELPED ME FIND MY KEYS.",
+            "SHE HELPED ORGANIZE THE EVENT."
+          ],
+          "translations": [
+            "La ayudé con el proyecto la semana pasada.",
+            "Tú me ayudaste a encontrar mis llaves.",
+            "Ella ayudó a organizar el evento."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "helped",
+          "image": "assets/img/g22.jpg",
+          "examples": [
+            "I HAVE HELPED MANY PEOPLE.",
+            "YOU HAVE HELPED TO IMPROVE THE SYSTEM.",
+            "SHE HAS HELPED WITH THE ARRANGEMENTS."
+          ],
+          "translations": [
+            "He ayudado a muchas personas.",
+            "Tú has ayudado a mejorar el sistema.",
+            "Ella ha ayudado con los preparativos."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "helps, helping",
+          "image": "assets/img/y22.jpg",
+          "examples": [
+            "SHE HELPS HER SISTER WITH HER HOMEWORK.",
+            "HE HELPS AT THE LOCAL SHELTER.",
+            "THEY ARE HELPING TO CLEAN THE PARK."
+          ],
+          "translations": [
+            "Ella ayuda a su hermana con los deberes.",
+            "Él ayuda en el refugio local.",
+            "Ellos están ayudando a limpiar el parque."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "talk",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "talk",
+          "image": "assets/img/r23.jpg",
+          "examples": [
+            "I TALK TO MY FRIENDS EVERY DAY.",
+            "YOU TALK TO YOUR FAMILY ON THE PHONE.",
+            "THEY TALK ABOUT THEIR PLANS."
+          ],
+          "translations": [
+            "Hablo con mis amigos todos los días.",
+            "Tú hablas con tu familia por teléfono.",
+            "Ellos hablan sobre sus planes."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "talked",
+          "image": "assets/img/b23.jpg",
+          "examples": [
+            "I TALKED TO MY BOSS YESTERDAY.",
+            "YOU TALKED ABOUT THE PROJECT.",
+            "SHE TALKED TO HER FRIENDS LAST NIGHT."
+          ],
+          "translations": [
+            "Hablé con mi jefe ayer.",
+            "Tú hablaste sobre el proyecto.",
+            "Ella habló con sus amigos anoche."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "talked",
+          "image": "assets/img/g23.jpg",
+          "examples": [
+            "I HAVE TALKED TO MANY PEOPLE.",
+            "YOU HAVE TALKED ABOUT THIS BEFORE.",
+            "SHE HAS TALKED TO THE MANAGER."
+          ],
+          "translations": [
+            "He hablado con muchas personas.",
+            "Tú has hablado sobre esto antes.",
+            "Ella ha hablado con el gerente."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "talks, talking",
+          "image": "assets/img/y23.jpg",
+          "examples": [
+            "SHE TALKS TO HER CO-WORKERS.",
+            "HE TALKS ABOUT HIS HOBBIES.",
+            "THEY ARE TALKING ABOUT THE EVENT."
+          ],
+          "translations": [
+            "Ella habla con sus compañeros de trabajo.",
+            "Él habla sobre sus pasatiempos.",
+            "Ellos están hablando sobre el evento."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "dance",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "dance",
+          "image": "assets/img/r24.jpg",
+          "examples": [
+            "I DANCE AT PARTIES.",
+            "YOU DANCE TO YOUR FAVORITE MUSIC.",
+            "THEY DANCE EVERY WEEKEND."
+          ],
+          "translations": [
+            "Bailo en las fiestas.",
+            "Tú bailas con tu música favorita.",
+            "Ellos bailan todos los fines de semana."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "danced",
+          "image": "assets/img/b24.jpg",
+          "examples": [
+            "I DANCED AT THE WEDDING LAST NIGHT.",
+            "YOU DANCED TO GREAT MUSIC.",
+            "SHE DANCED WITH HER FRIENDS."
+          ],
+          "translations": [
+            "Baile en la boda anoche.",
+            "Tú bailaste con buena música.",
+            "Ella bailó con sus amigos."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "danced",
+          "image": "assets/img/g24.jpg",
+          "examples": [
+            "I HAVE DANCED IN MANY PLACES.",
+            "YOU HAVE DANCED TO THIS SONG BEFORE.",
+            "SHE HAS DANCED FOR YEARS."
+          ],
+          "translations": [
+            "He bailado en muchos lugares.",
+            "Tú has bailado con esta canción antes.",
+            "Ella ha bailado durante años."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "dances, dancing",
+          "image": "assets/img/y24.jpg",
+          "examples": [
+            "SHE DANCES EVERY DAY.",
+            "HE DANCES AT THE CLUB.",
+            "THEY ARE DANCING AT THE FESTIVAL."
+          ],
+          "translations": [
+            "Ella baila todos los días.",
+            "Él baila en el club.",
+            "Ellos están bailando en el festival."
+          ]
+        }
+      ]
+    },
+    {
+      "mainverb": "need",
+      "tenses": [
+        {
+          "tense": "Base form",
+          "verb": "need",
+          "image": "assets/img/r25.jpg",
+          "examples": [
+            "I NEED TO BUY GROCERIES.",
+            "YOU NEED TO FINISH YOUR HOMEWORK.",
+            "THEY NEED HELP WITH THE PROJECT."
+          ],
+          "translations": [
+            "Necesito comprar víveres.",
+            "Tú necesitas terminar tu tarea.",
+            "Ellos necesitan ayuda con el proyecto."
+          ]
+        },
+        {
+          "tense": "Past Simple",
+          "verb": "needed",
+          "image": "assets/img/b25.jpg",
+          "examples": [
+            "I NEEDED A NEW COMPUTER LAST YEAR.",
+            "YOU NEEDED ASSISTANCE DURING THE EVENT.",
+            "SHE NEEDED TO LEAVE EARLY."
+          ],
+          "translations": [
+            "Necesité una computadora nueva el año pasado.",
+            "Tú necesitaste asistencia durante el evento.",
+            "Ella necesitó salir temprano."
+          ]
+        },
+        {
+          "tense": "Past Participle",
+          "verb": "needed",
+          "image": "assets/img/g25.jpg",
+          "examples": [
+            "I HAVE NEEDED TO REST.",
+            "YOU HAVE NEEDED A BREAK.",
+            "SHE HAS NEEDED MORE TIME."
+          ],
+          "translations": [
+            "He necesitado descansar.",
+            "Tú has necesitado un descanso.",
+            "Ella ha necesitado más tiempo."
+          ]
+        },
+        {
+          "tense": "Third Person, Present Continuous",
+          "verb": "needs, needing",
+          "image": "assets/img/y25.jpg",
+          "examples": [
+            "SHE NEEDS TO STUDY.",
+            "HE NEEDS MORE INFORMATION.",
+            "THEY ARE NEEDING ASSISTANCE NOW."
+          ],
+          "translations": [
+            "Ella necesita estudiar.",
+            "Él necesita más información.",
+            "Ellos están necesitando asistencia ahora."
+          ]
+        }
+      ]
+    }
+  ]
+}
